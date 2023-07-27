@@ -14,5 +14,5 @@ A simple foreign currency conversion web application. Users can view the current
 
 **Link to Web App**:
 
-[<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">](<https://forex-rates.streamlit.app>)
+[<img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg">](<https://forexgpt.streamlit.app>)
 
